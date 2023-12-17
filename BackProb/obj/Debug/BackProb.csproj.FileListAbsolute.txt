@@ -1,0 +1,11 @@
+C:\School\Intelligent Systems 1\BackProb\BackProb\bin\Debug\BackProb.exe.config
+C:\School\Intelligent Systems 1\BackProb\BackProb\bin\Debug\BackProb.exe
+C:\School\Intelligent Systems 1\BackProb\BackProb\bin\Debug\BackProb.pdb
+C:\School\Intelligent Systems 1\BackProb\BackProb\obj\Debug\BackProb.csproj.AssemblyReference.cache
+C:\School\Intelligent Systems 1\BackProb\BackProb\obj\Debug\BackProb.csproj.SuggestedBindingRedirects.cache
+C:\School\Intelligent Systems 1\BackProb\BackProb\obj\Debug\BackProb.Form1.resources
+C:\School\Intelligent Systems 1\BackProb\BackProb\obj\Debug\BackProb.Properties.Resources.resources
+C:\School\Intelligent Systems 1\BackProb\BackProb\obj\Debug\BackProb.csproj.GenerateResource.cache
+C:\School\Intelligent Systems 1\BackProb\BackProb\obj\Debug\BackProb.csproj.CoreCompileInputs.cache
+C:\School\Intelligent Systems 1\BackProb\BackProb\obj\Debug\BackProb.exe
+C:\School\Intelligent Systems 1\BackProb\BackProb\obj\Debug\BackProb.pdb
